@@ -1,6 +1,5 @@
-# coursera-test
-coursera test repositary
 <!DOCTYPE html>
+# coursera-test
 <html lang="en">
 <head>
     <meta charset="UTF-8">
